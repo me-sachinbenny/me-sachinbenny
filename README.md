@@ -1,5 +1,5 @@
 # 💫 About Me:
-DevOps engineer who loves to automate any repeated boring tasks<br><br>🔭 I’m currently working on a granular scaffold project<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning AI integration to enhance my Workflow<br>⚡ Fun fact - I love polishing my terminal with new themes
+DevOps engineer who loves to automate any repeated boring tasks<br><br>🔭 I’m currently working on a granular scaffold project<br>🌱 I’m currently learning AI integration to enhance my Workflow<br>⚡ Fun fact - I love polishing my terminal with new themes
 
 
 ## 🌐 Socials:
